@@ -57,7 +57,5 @@ Email: cuongtls123@gmail.com
 
 - **A Recommender System for Job Seeking and Recruiting Website**
   
-- **Ranking in Heterogeneous Social Media**
-
 - **The 3A Personalized, Contextual and Relation-based Recommender System**
 
