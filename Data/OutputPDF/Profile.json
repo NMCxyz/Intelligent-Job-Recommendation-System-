@@ -1,0 +1,30 @@
+{
+    "text": "job requirements looking for a dynamic individual keen to join a growing organization in the fast paced and expanding supply chain software industry as singapore goes through the digital revolution the individual will play a paramount role in developing and upgrading our saas tools and valued added services for our clients responsibilities 1 work with architect framework designer to develop the next generation of cloud base micro services suite 2 design and implement micro service modules primary for supply chain systems design must be flexible and scalable for any future expansion or upgrade 3 establish api services in the api gateway for both internal and external communications and integrations 4 document all design works in proper standard formats with detail descriptions ensure all design documentations include module data are always follow standards and up to date 5 conduct agile development methodology in the micro services development life cycle 6 carry out unit and integration testing regularly with the qc team 7 intensive knowledge on several java platform technologies such as javaee dom sax annotation aop di rest workflow etc familiar with infra layer technology such as docker",
+    "results": {
+      "full_matches": [
+        {
+          "skill_id": "KS1208P6ZMZ4N872Y7X5",
+          "score": 1,
+          "doc_node_value": "API",
+          "doc_node_id": [95],
+          "skill_category": "Information Technology",
+          "skill_subcategory": "Application Programming Interface (API)",
+          "skill_name": "Application Programming Interface (API)"
+        }
+      ],
+      "ngram_scored": [
+        {
+            "skill_id": "KS4418S6WB8QJYMY2S03",
+            "doc_node_value": "technologies",
+            "score": 0.3333333333333333,
+            "doc_node_id": [167],
+            "type": "oneToken",
+            "len": 1,
+            "skill_category": "Information Technology",
+            "skill_subcategory": "System Design and Implementation",
+            "skill_name": "Technology Readiness Level"
+          }
+      ]
+    }
+  }
+  

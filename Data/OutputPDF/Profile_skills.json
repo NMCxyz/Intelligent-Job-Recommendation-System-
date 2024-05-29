@@ -1,0 +1,305 @@
+{
+	"attributions": [
+		{
+			"name": "Wikipedia",
+			"text": "Wikipedia extracts are distributed under the CC BY-SA license (https://creativecommons.org/licenses/by-sa/3.0/)"
+		}
+	],
+	"data": {
+		"normalizedText": null,
+		"skills": [
+			{
+				"confidence": 1.0,
+				"skill": {
+					"description": "Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.",
+					"descriptionSource": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+					"id": "KS125LS6N7WP4S6SFTCK",
+					"infoUrl": "https://lightcast.io/open-skills/skills/KS125LS6N7WP4S6SFTCK",
+					"name": "Python (Programming Language)",
+					"tags": [
+						{
+							"key": "wikipediaExtract",
+							"value": "Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects."
+						},
+						{
+							"key": "wikipediaUrl",
+							"value": "https://en.wikipedia.org/wiki/Python_(programming_language)"
+						}
+					],
+					"type": {
+						"id": "ST1",
+						"name": "Specialized Skill"
+					}
+				}
+			},
+			{
+				"confidence": 1.0,
+				"skill": {
+					"description": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR). It is free and open-source software released under the Modified BSD license. Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface.",
+					"descriptionSource": "https://en.wikipedia.org/wiki/PyTorch",
+					"id": "KSWXHT30GQY9B4QSXC5O",
+					"infoUrl": "https://lightcast.io/open-skills/skills/KSWXHT30GQY9B4QSXC5O",
+					"name": "PyTorch (Machine Learning Library)",
+					"tags": [
+						{
+							"key": "wikipediaExtract",
+							"value": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR). It is free and open-source software released under the Modified BSD license. Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface."
+						},
+						{
+							"key": "wikipediaUrl",
+							"value": "https://en.wikipedia.org/wiki/PyTorch"
+						}
+					],
+					"type": {
+						"id": "ST1",
+						"name": "Specialized Skill"
+					}
+				}
+			},
+			{
+				"confidence": 0.9999049305915833,
+				"skill": {
+					"description": "TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.",
+					"descriptionSource": "https://en.wikipedia.org/wiki/TensorFlow",
+					"id": "KS2GHRCYA6TRT29F1HOO",
+					"infoUrl": "https://lightcast.io/open-skills/skills/KS2GHRCYA6TRT29F1HOO",
+					"name": "TensorFlow",
+					"tags": [
+						{
+							"key": "wikipediaExtract",
+							"value": "TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks."
+						},
+						{
+							"key": "wikipediaUrl",
+							"value": "https://en.wikipedia.org/wiki/TensorFlow"
+						}
+					],
+					"type": {
+						"id": "ST1",
+						"name": "Specialized Skill"
+					}
+				}
+			},
+			{
+				"confidence": 0.800000011920929,
+				"skill": {
+					"description": "Convolutional Neural Networks (CNNs) are a specialized type of neural network commonly used for image and video recognition and classification tasks. They work by using filters (kernels) to scan through images to identify patterns and features. CNNs are trained on large amounts of image data and are able to recognize objects in new images with high accuracy. Mastering CNNs requires expertise in machine learning, computer vision, and programming.",
+					"descriptionSource": null,
+					"id": "ES3E181DDDBC374119D5",
+					"infoUrl": "https://lightcast.io/open-skills/skills/ES3E181DDDBC374119D5",
+					"name": "Convolutional Neural Networks",
+					"tags": [],
+					"type": {
+						"id": "ST1",
+						"name": "Specialized Skill"
+					}
+				}
+			}
+		],
+		"trace": [
+			{
+				"classificationData": {
+					"contextForms": [],
+					"skills": [
+						{
+							"confidence": 1.0,
+							"skill": {
+								"description": "Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.",
+								"descriptionSource": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+								"id": "KS125LS6N7WP4S6SFTCK",
+								"infoUrl": "https://lightcast.io/open-skills/skills/KS125LS6N7WP4S6SFTCK",
+								"name": "Python (Programming Language)",
+								"tags": [
+									{
+										"key": "wikipediaExtract",
+										"value": "Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects."
+									},
+									{
+										"key": "wikipediaUrl",
+										"value": "https://en.wikipedia.org/wiki/Python_(programming_language)"
+									}
+								],
+								"type": {
+									"id": "ST1",
+									"name": "Specialized Skill"
+								}
+							}
+						}
+					]
+				},
+				"surfaceForm": {
+					"sourceEnd": 6,
+					"sourceStart": 0,
+					"value": "python"
+				}
+			},
+			{
+				"classificationData": {
+					"contextForms": [],
+					"skills": [
+						{
+							"confidence": 1.0,
+							"skill": {
+								"description": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR). It is free and open-source software released under the Modified BSD license. Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface.",
+								"descriptionSource": "https://en.wikipedia.org/wiki/PyTorch",
+								"id": "KSWXHT30GQY9B4QSXC5O",
+								"infoUrl": "https://lightcast.io/open-skills/skills/KSWXHT30GQY9B4QSXC5O",
+								"name": "PyTorch (Machine Learning Library)",
+								"tags": [
+									{
+										"key": "wikipediaExtract",
+										"value": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR). It is free and open-source software released under the Modified BSD license. Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface."
+									},
+									{
+										"key": "wikipediaUrl",
+										"value": "https://en.wikipedia.org/wiki/PyTorch"
+									}
+								],
+								"type": {
+									"id": "ST1",
+									"name": "Specialized Skill"
+								}
+							}
+						}
+					]
+				},
+				"surfaceForm": {
+					"sourceEnd": 15,
+					"sourceStart": 8,
+					"value": "pytorch"
+				}
+			},
+			{
+				"classificationData": {
+					"contextForms": [
+						{
+							"sourceEnd": 15,
+							"sourceStart": 8,
+							"value": "pytorch"
+						},
+						{
+							"sourceEnd": 37,
+							"sourceStart": 34,
+							"value": "KNN"
+						}
+					],
+					"skills": [
+						{
+							"confidence": 0.9999049305915833,
+							"skill": {
+								"description": "TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.",
+								"descriptionSource": "https://en.wikipedia.org/wiki/TensorFlow",
+								"id": "KS2GHRCYA6TRT29F1HOO",
+								"infoUrl": "https://lightcast.io/open-skills/skills/KS2GHRCYA6TRT29F1HOO",
+								"name": "TensorFlow",
+								"tags": [
+									{
+										"key": "wikipediaExtract",
+										"value": "TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks."
+									},
+									{
+										"key": "wikipediaUrl",
+										"value": "https://en.wikipedia.org/wiki/TensorFlow"
+									}
+								],
+								"type": {
+									"id": "ST1",
+									"name": "Specialized Skill"
+								}
+							}
+						}
+					]
+				},
+				"surfaceForm": {
+					"sourceEnd": 27,
+					"sourceStart": 17,
+					"value": "tensorflow"
+				}
+			},
+			{
+				"classificationData": {
+					"contextForms": [
+						{
+							"sourceEnd": 6,
+							"sourceStart": 0,
+							"value": "python"
+						}
+					],
+					"skills": [
+						{
+							"confidence": 0.800000011920929,
+							"skill": {
+								"description": "Convolutional Neural Networks (CNNs) are a specialized type of neural network commonly used for image and video recognition and classification tasks. They work by using filters (kernels) to scan through images to identify patterns and features. CNNs are trained on large amounts of image data and are able to recognize objects in new images with high accuracy. Mastering CNNs requires expertise in machine learning, computer vision, and programming.",
+								"descriptionSource": null,
+								"id": "ES3E181DDDBC374119D5",
+								"infoUrl": "https://lightcast.io/open-skills/skills/ES3E181DDDBC374119D5",
+								"name": "Convolutional Neural Networks",
+								"tags": [],
+								"type": {
+									"id": "ST1",
+									"name": "Specialized Skill"
+								}
+							}
+						},
+						{
+							"confidence": 0.05205479636788368,
+							"skill": {
+								"description": "Certified Nephrology Nurse (CNN) is a certification that signifies that a nurse has specialized knowledge, skills, and experience in caring for patients with kidney disease. The certification is offered by the Nephrology Nursing Certification Commission (NNCC) and requires passing a rigorous exam. CNNs are qualified to work in a variety of healthcare settings, including hospitals, dialysis centers, and clinics. They play a critical role in managing the care of patients with kidney disease, including assessing patients, administering treatments, and educating patients and their families about kidney health.",
+								"descriptionSource": null,
+								"id": "KS121P16SZGG42RNVZV0",
+								"infoUrl": "https://lightcast.io/open-skills/skills/KS121P16SZGG42RNVZV0",
+								"name": "Certified Nephrology Nurse (CNN)",
+								"tags": [],
+								"type": {
+									"id": "ST3",
+									"name": "Certification"
+								}
+							}
+						}
+					]
+				},
+				"surfaceForm": {
+					"sourceEnd": 32,
+					"sourceStart": 29,
+					"value": "CNN"
+				}
+			},
+			{
+				"classificationData": {
+					"contextForms": [],
+					"skills": [
+						{
+							"confidence": 0.10681399703025818,
+							"skill": {
+								"description": "In statistics, the k-nearest neighbors algorithm (k-NN) is a non-parametric classification method first developed by Evelyn Fix and Joseph Hodges in 1951, and later expanded by Thomas Cover. It is used for classification and regression. In both cases, the input consists of the k closest training examples in data set. The output depends on whether k-NN is used for classification or regression:In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors. If k = 1, then the object is simply assigned to the class of that single nearest neighbor.In k-NN regression, the output is the property value for the object. This value is the average of the values of k nearest neighbors.",
+								"descriptionSource": "https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm",
+								"id": "KS125NB693HLB2L7X1CP",
+								"infoUrl": "https://lightcast.io/open-skills/skills/KS125NB693HLB2L7X1CP",
+								"name": "K-Nearest Neighbors Algorithm",
+								"tags": [
+									{
+										"key": "wikipediaExtract",
+										"value": "In statistics, the k-nearest neighbors algorithm (k-NN) is a non-parametric classification method first developed by Evelyn Fix and Joseph Hodges in 1951, and later expanded by Thomas Cover. It is used for classification and regression. In both cases, the input consists of the k closest training examples in data set. The output depends on whether k-NN is used for classification or regression:In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors. If k = 1, then the object is simply assigned to the class of that single nearest neighbor.In k-NN regression, the output is the property value for the object. This value is the average of the values of k nearest neighbors."
+									},
+									{
+										"key": "wikipediaUrl",
+										"value": "https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm"
+									}
+								],
+								"type": {
+									"id": "ST1",
+									"name": "Specialized Skill"
+								}
+							}
+						}
+					]
+				},
+				"surfaceForm": {
+					"sourceEnd": 37,
+					"sourceStart": 34,
+					"value": "KNN"
+				}
+			}
+		]
+	}
+}

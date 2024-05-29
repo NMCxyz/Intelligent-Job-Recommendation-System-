@@ -1,0 +1,637 @@
+{
+  "Information Technology": {
+    "Skills Distribution": {
+      "Software Development": 6,
+      "Computer Science": 5,
+      "JavaScript and jQuery": 8,
+      "Technical Support and Services": 2,
+      "Web Design and Development": 3,
+      "Artificial Intelligence and Machine Learning (AI/ML)": 1,
+      "Microsoft Development Tools": 3,
+      "Scripting Languages": 2,
+      "Software Development Tools": 1,
+      "Java": 1,
+      "System Design and Implementation": 1
+    },
+    "List Skills": [
+      "Front End (Software Engineering)",
+      "Computer Science",
+      "Node.js",
+      "Technology Solutions",
+      "Web Applications",
+      "Machine Learning",
+      "Component Object Model (COM)",
+      "HyperText Markup Language (HTML)",
+      "Cascading Style Sheets (CSS)",
+      "JavaScript (Programming Language)",
+      "React.js",
+      "JQuery",
+      "React Redux",
+      "Angular Material",
+      "Jest (JavaScript Testing Framework)",
+      "Maintainability",
+      "Documentation Based Coding",
+      "Automation",
+      "3rd Party Systems Integration",
+      "Digitization",
+      "Software Engineering",
+      "Python (Programming Language)"
+    ],
+    "Subcategories": {
+      "Software Development": [
+        {
+          "skill_name": "Front End (Software Engineering)",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "front end",
+          "skill_id": "KS6840J6LR0TLQ86LZJC"
+        },
+        {
+          "skill_name": "Front End (Software Engineering)",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "front end",
+          "skill_id": "KS6840J6LR0TLQ86LZJC"
+        },
+        {
+          "skill_name": "Front End (Software Engineering)",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "front end",
+          "skill_id": "KS6840J6LR0TLQ86LZJC"
+        },
+        {
+          "skill_name": "Maintainability",
+          "detection": "ngram_scored",
+          "score": 0.7878908514976501,
+          "doc_node_value": "maintain",
+          "skill_id": "KS1263K6Q6PD5NLKJ42V",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "Documentation Based Coding",
+          "detection": "ngram_scored",
+          "score": 0.5666666666666668,
+          "doc_node_value": "code base",
+          "skill_id": "KS7G1Y264NLHY548H74B",
+          "type": "oneToken",
+          "len": 2
+        },
+        {
+          "skill_name": "Software Engineering",
+          "detection": "ngram_scored",
+          "score": 2,
+          "doc_node_value": "software engineer",
+          "skill_id": "KS440QS66YCBN23Y8K25",
+          "type": "lowSurf",
+          "len": 2
+        }
+      ],
+      "Computer Science": [
+        {
+          "skill_name": "Computer Science",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "computer science",
+          "skill_id": "KS1226Y6DNDT05G7FJ4J"
+        },
+        {
+          "skill_name": "Computer Science",
+          "detection": "ngram_scored",
+          "score": 2,
+          "doc_node_value": "science computer",
+          "skill_id": "KS1226Y6DNDT05G7FJ4J",
+          "type": "lowSurf",
+          "len": 2
+        },
+        {
+          "skill_name": "Automation",
+          "detection": "ngram_scored",
+          "score": 0.8185137510299683,
+          "doc_node_value": "automated",
+          "skill_id": "KS120SQ5W4Q57JMD2Y81",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "Digitization",
+          "detection": "ngram_scored",
+          "score": 0.6849663853645325,
+          "doc_node_value": "digital",
+          "skill_id": "KS122ZF75YVNLXW1BN4Q",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "Automation",
+          "detection": "ngram_scored",
+          "score": 0.8185137510299683,
+          "doc_node_value": "automated",
+          "skill_id": "KS120SQ5W4Q57JMD2Y81",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ],
+      "JavaScript and jQuery": [
+        {
+          "skill_name": "Node.js",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "node js",
+          "skill_id": "KS127296VDYS7ZFWVC46"
+        },
+        {
+          "skill_name": "Node.js",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "node js",
+          "skill_id": "KS127296VDYS7ZFWVC46"
+        },
+        {
+          "skill_name": "React.js",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "react",
+          "skill_id": "KSDJCA4E89LB98JAZ7LZ",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "JQuery",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "jquery",
+          "skill_id": "KS125KQ5WKM97L66SSQY",
+          "type": "fullUni",
+          "len": 1
+        },
+        {
+          "skill_name": "React Redux",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "redux",
+          "skill_id": "KSQOOX1S2DYD0E1VVZ5X",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "Node.js",
+          "detection": "ngram_scored",
+          "score": 2,
+          "doc_node_value": "js node",
+          "skill_id": "KS127296VDYS7ZFWVC46",
+          "type": "lowSurf",
+          "len": 2
+        },
+        {
+          "skill_name": "React.js",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "react",
+          "skill_id": "KSDJCA4E89LB98JAZ7LZ",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "React Redux",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "redux",
+          "skill_id": "KSQOOX1S2DYD0E1VVZ5X",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ],
+      "Technical Support and Services": [
+        {
+          "skill_name": "Technology Solutions",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "technology solution",
+          "skill_id": "ESB92020333F27589A43"
+        },
+        {
+          "skill_name": "Technology Solutions",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "technology solution",
+          "skill_id": "ESB92020333F27589A43"
+        }
+      ],
+      "Web Design and Development": [
+        {
+          "skill_name": "Web Applications",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "web application",
+          "skill_id": "KS441ZY6P0PDB5DWTRB8"
+        },
+        {
+          "skill_name": "HyperText Markup Language (HTML)",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "HTML",
+          "skill_id": "KS1200578T5QCYT0Z98G"
+        },
+        {
+          "skill_name": "Cascading Style Sheets (CSS)",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "CSS",
+          "skill_id": "KS121F45VPV8C9W3QFYH"
+        }
+      ],
+      "Artificial Intelligence and Machine Learning (AI/ML)": [
+        {
+          "skill_name": "Machine Learning",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "machine learn",
+          "skill_id": "KS1261Z68KSKR1X31KS3"
+        }
+      ],
+      "Microsoft Development Tools": [
+        {
+          "skill_name": "Component Object Model (COM)",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "com",
+          "skill_id": "KS7G7K873Z87GNGYHQKB"
+        },
+        {
+          "skill_name": "Component Object Model (COM)",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "com",
+          "skill_id": "KS7G7K873Z87GNGYHQKB"
+        },
+        {
+          "skill_name": "Component Object Model (COM)",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "com",
+          "skill_id": "KS7G7K873Z87GNGYHQKB"
+        }
+      ],
+      "Scripting Languages": [
+        {
+          "skill_name": "JavaScript (Programming Language)",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "javascript",
+          "skill_id": "KS1200771D9CR9LB4MWW",
+          "type": "fullUni",
+          "len": 1
+        },
+        {
+          "skill_name": "Python (Programming Language)",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "python",
+          "skill_id": "KS125LS6N7WP4S6SFTCK",
+          "type": "fullUni",
+          "len": 1
+        }
+      ],
+      "Software Development Tools": [
+        {
+          "skill_name": "Angular Material",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "angular",
+          "skill_id": "KSM72DQX6NAMAD5W02FF",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ],
+      "Java": [
+        {
+          "skill_name": "Jest (JavaScript Testing Framework)",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "jest",
+          "skill_id": "ES69297559170A17D44A",
+          "type": "fullUni",
+          "len": 1
+        }
+      ],
+      "System Design and Implementation": [
+        {
+          "skill_name": "3rd Party Systems Integration",
+          "detection": "ngram_scored",
+          "score": 0.6499999999999999,
+          "doc_node_value": "3rd party integrations",
+          "skill_id": "BGSDD1886B513586233F",
+          "type": "oneToken",
+          "len": 3
+        }
+      ]
+    }
+  },
+  "Property and Real Estate": {
+    "Skills Distribution": {
+      "Real Estate Sales": 1,
+      "Real Estate Development": 1
+    },
+    "List Skills": ["Real Estate", "Real Estate Valuation"],
+    "Subcategories": {
+      "Real Estate Sales": [
+        {
+          "skill_name": "Real Estate",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "real estate",
+          "skill_id": "KS128F265DV4XTBR70H7"
+        }
+      ],
+      "Real Estate Development": [
+        {
+          "skill_name": "Real Estate Valuation",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "real estate valuation",
+          "skill_id": "KSG27QP8BL1S9QI4XUMY"
+        }
+      ]
+    }
+  },
+  "": {
+    "Skills Distribution": { "": 6 },
+    "List Skills": [
+      "Service Provider",
+      "Hubspot",
+      "AD Model Builder (ADMB)",
+      "Validations",
+      "Integration"
+    ],
+    "Subcategories": {
+      "": [
+        {
+          "skill_name": "Service Provider",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "service provider",
+          "skill_id": "KS440HK72NCTJJWMWRRS"
+        },
+        {
+          "skill_name": "Hubspot",
+          "detection": "ngram_scored",
+          "score": 1.0,
+          "doc_node_value": "hubspot",
+          "skill_id": "KSRX3X8IGTV51CGCKHLD",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "Hubspot",
+          "detection": "ngram_scored",
+          "score": 1.0,
+          "doc_node_value": "hubspot",
+          "skill_id": "KSRX3X8IGTV51CGCKHLD",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "AD Model Builder (ADMB)",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "ad",
+          "skill_id": "KS1206N6CM1YXK7R45CT",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "Validations",
+          "detection": "ngram_scored",
+          "score": 0.6756366491317749,
+          "doc_node_value": "validate",
+          "skill_id": "KS127R7650Y7D6FBKDM4",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "Integration",
+          "detection": "ngram_scored",
+          "score": 0.825799822807312,
+          "doc_node_value": "integrated",
+          "skill_id": "KS125716TLTGH6SDHJD1",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ]
+    }
+  },
+  "Design": {
+    "Skills Distribution": {
+      "User Interface and User Experience (UI/UX) Design": 1
+    },
+    "List Skills": ["User Experience"],
+    "Subcategories": {
+      "User Interface and User Experience (UI/UX) Design": [
+        {
+          "skill_name": "User Experience",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "user experience",
+          "skill_id": "KS441PL6JPXW200W0GRQ"
+        }
+      ]
+    }
+  },
+  "Finance": {
+    "Skills Distribution": { "Financial Modeling": 1 },
+    "List Skills": ["Valuation Models"],
+    "Subcategories": {
+      "Financial Modeling": [
+        {
+          "skill_name": "Valuation Models",
+          "detection": "full_matches",
+          "score": 1,
+          "doc_node_value": "valuation model",
+          "skill_id": "ESEC13B9B5D0B48794B0"
+        }
+      ]
+    }
+  },
+  "Marketing and Public Relations": {
+    "Skills Distribution": { "Social Media": 1 },
+    "List Skills": ["LinkedIn"],
+    "Subcategories": {
+      "Social Media": [
+        {
+          "skill_name": "LinkedIn",
+          "detection": "ngram_scored",
+          "score": 1.0,
+          "doc_node_value": "linkedin",
+          "skill_id": "ES40E355B3EB8E577778",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ]
+    }
+  },
+  "NULL": {
+    "Skills Distribution": { "NULL": 5 },
+    "List Skills": [
+      "Python Imaging Libraries",
+      "Virtual System Administrator",
+      "Business Integration Software",
+      "Track (Rail Transport)"
+    ],
+    "Subcategories": {
+      "NULL": [
+        {
+          "skill_name": "Python Imaging Libraries",
+          "detection": "ngram_scored",
+          "score": 0.6,
+          "doc_node_value": "python libraries",
+          "skill_id": "KS128865YTL4WZYR5T8G",
+          "type": "oneToken",
+          "len": 2
+        },
+        {
+          "skill_name": "Python Imaging Libraries",
+          "detection": "ngram_scored",
+          "score": 0.6,
+          "doc_node_value": "python libraries",
+          "skill_id": "KS128865YTL4WZYR5T8G",
+          "type": "oneToken",
+          "len": 2
+        },
+        {
+          "skill_name": "Virtual System Administrator",
+          "detection": "ngram_scored",
+          "score": 0.5666666666666668,
+          "doc_node_value": "system administrator",
+          "skill_id": "KS7G6176BNC5X8Q6P97P",
+          "type": "oneToken",
+          "len": 2
+        },
+        {
+          "skill_name": "Business Integration Software",
+          "detection": "ngram_scored",
+          "score": 0.5666666666666668,
+          "doc_node_value": "software integrations",
+          "skill_id": "KS1218T6B94HBX429513",
+          "type": "oneToken",
+          "len": 2
+        },
+        {
+          "skill_name": "Track (Rail Transport)",
+          "detection": "ngram_scored",
+          "score": 1,
+          "doc_node_value": "track",
+          "skill_id": "KS441GF6KQ6M65WY8DJ3",
+          "type": "fullUni",
+          "len": 1
+        }
+      ]
+    }
+  },
+  "Physical and Inherent Abilities": {
+    "Skills Distribution": {
+      "Critical Thinking and Problem Solving": 1,
+      "Personal Attributes": 1
+    },
+    "List Skills": ["Complex Problem Solving", "Professionalism"],
+    "Subcategories": {
+      "Critical Thinking and Problem Solving": [
+        {
+          "skill_name": "Complex Problem Solving",
+          "detection": "ngram_scored",
+          "score": 0.6333333333333333,
+          "doc_node_value": "complex problems",
+          "skill_id": "ES80E93EF8629D5C793C",
+          "type": "oneToken",
+          "len": 2
+        }
+      ],
+      "Personal Attributes": [
+        {
+          "skill_name": "Professionalism",
+          "detection": "ngram_scored",
+          "score": 0.8296616077423096,
+          "doc_node_value": "professional",
+          "skill_id": "ES76F4C57A88877D6D64",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ]
+    }
+  },
+  "Customer and Client Support": {
+    "Skills Distribution": { "Customer Service": 2 },
+    "List Skills": ["Personalization"],
+    "Subcategories": {
+      "Customer Service": [
+        {
+          "skill_name": "Personalization",
+          "detection": "ngram_scored",
+          "score": 0.7525232434272766,
+          "doc_node_value": "personal",
+          "skill_id": "KS122M265VBKQ5BFJXYS",
+          "type": "lowSurf",
+          "len": 1
+        },
+        {
+          "skill_name": "Personalization",
+          "detection": "ngram_scored",
+          "score": 0.5327937006950378,
+          "doc_node_value": "person",
+          "skill_id": "KS122M265VBKQ5BFJXYS",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ]
+    }
+  },
+  "Analysis": {
+    "Skills Distribution": { "Data Analysis": 1 },
+    "List Skills": ["Analytics"],
+    "Subcategories": {
+      "Data Analysis": [
+        {
+          "skill_name": "Analytics",
+          "detection": "ngram_scored",
+          "score": 1.0,
+          "doc_node_value": "analytics",
+          "skill_id": "KS120GV5ZXR64CJLL1J4",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ]
+    }
+  },
+  "Business": {
+    "Skills Distribution": {
+      "Business Management": 1,
+      "Business Operations": 1
+    },
+    "List Skills": ["Management", "Operations"],
+    "Subcategories": {
+      "Business Management": [
+        {
+          "skill_name": "Management",
+          "detection": "ngram_scored",
+          "score": 0.6604391932487488,
+          "doc_node_value": "manages",
+          "skill_id": "KS1218W78FGVPVP2KXPX",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ],
+      "Business Operations": [
+        {
+          "skill_name": "Operations",
+          "detection": "ngram_scored",
+          "score": 1.0,
+          "doc_node_value": "operations",
+          "skill_id": "KS127D361PF0FTXDZ7C4",
+          "type": "lowSurf",
+          "len": 1
+        }
+      ]
+    }
+  }
+}
