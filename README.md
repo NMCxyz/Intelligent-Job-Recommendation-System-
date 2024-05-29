@@ -52,3 +52,12 @@ For any inquiries, please contact:
 
 Nguyễn Mạnh Cường
 Email: cuongtls123@gmail.com
+
+## 📚 References
+
+- **A Recommender System for Job Seeking and Recruiting Website**
+  
+- **Ranking in Heterogeneous Social Media**
+
+- **The 3A Personalized, Contextual and Relation-based Recommender System**
+
